@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+
+button {
+    border-radius: 10px;
+    background: none;
+    border: 1px solid white;
+    color: white;
+    font-size: 0.5rem;
+}
